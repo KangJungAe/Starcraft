@@ -1,11 +1,11 @@
 package Model;
 
-public class Firebat {
+public class Firebat_Ex {
 	
 	public int f_Energy; 
 	public int f_Attack;
 	
-	public Firebat(int f_Energy, int f_Attack) {
+	public Firebat_Ex(int f_Energy, int f_Attack) {
 		this.f_Energy = f_Energy;
 		this.f_Attack = f_Attack;
 	}
