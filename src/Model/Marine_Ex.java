@@ -38,7 +38,7 @@ public class Marine_Ex {
     private int attackOpt1;
     private boolean isDead = false;
 	
-    //
+    
 	
 	public int getHp() {
 		return hp;
